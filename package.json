@@ -1,0 +1,16 @@
+{
+  "name": "red-ribbon-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Emmanuela Adanna Ononiwu",
+  "license": "ISC",
+  "description": "Red Ribbon is a digital health platform that provides comprehensive sexual education and resources for adolescents.",
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  }
+}
